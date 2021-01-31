@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# RenPy logs
+log.txt
+errors.txt
+traceback.txt
+saves/
